@@ -28,9 +28,10 @@ between strategies people use to circumvent automated systems and perceptions of
 
 ![Poster](images/DUB_REU_2022.png)
 
+- **How Adolescents Make Sense of Algorithmic Fairness:** interviewed adolescents on their perceptions of algorithmic fairness and analyzed their responses to different technological scenarios
+
 - **Critical Concious Computing:** taught an algorithmic fairness and computer science as part of the Upward Bound program for first-generation,
 low-income high school students in Seattle, and studied impact of critically conscious computing education
-- **How Adolescents Make Sense of Algorithmic Fairness:** interviewed adolescents on their perceptions of algorithmic fairness and analyzed their responses to different technological scenarios
 <br>
 <br>
 
@@ -44,7 +45,7 @@ low-income high school students in Seattle, and studied impact of critically con
 <br>
 <br>
 
-**Penn Undergraduate Research Mentorship Program (June - August 2020)**
+**Penn Undergraduate Research Mentorship (PURM) Program (June - August 2020)**
 
 - Advisor: [Prof. Kathryn Davis](https://davislab.med.upenn.edu/) (_Penn Center for Neuroengineering and Therapeutics, University of Pennsylvania_)
 
