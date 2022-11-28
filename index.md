@@ -40,7 +40,7 @@ between strategies people use to circumvent automated systems and perceptions of
 
 - Advisor: [Prof. Kathryn Davis](https://davislab.med.upenn.edu/) (_Penn Center for Neuroengineering and Therapeutics, University of Pennsylvania_)
 - **Machine learning of EEG to help diagnose epilepsy:** [Poster for Penn CURF Fall Research Expo](https://presentations.curf.upenn.edu/poster/machine-learning-eeg-help-diagnose-epilepsy-predicting-functional-connectivity-structural)
-[Poster](PURM_REU_2020.png)
+![Poster](images/PURM_REU_2020.png)
 <br>
 <br>
 
