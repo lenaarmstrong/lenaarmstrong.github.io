@@ -57,7 +57,7 @@ low-income high school students in Seattle, and studied impact of critically con
 <br>
 <br>
 
-## Other things I have been involved with:
+## Work and Leadership Experiences
 
 - Head Teaching Assistant for Introduction to Computer Programming [(CIS 1100)](https://www.cis.upenn.edu/~cis110/current/staff.html)
 
