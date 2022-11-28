@@ -23,6 +23,7 @@ between strategies people use to circumvent automated systems and perceptions of
 **Design Use Build (DUB) REU Program (June - August 2022)**
 
 - Advisor: [Prof. Amy J. Ko](https://faculty.washington.edu/ajko) (_Code & Cognition Lab, University of Washington_)
+
 - **Critical Concious Computing:** taught an algorithmic fairness and computer science as part of the Upward Bound program for first-generation,
 low-income high school students in Seattle, and studied impact of critically conscious computing education
 - **How Adolescents Make Sense of Algorithmic Fairness:** interviewed adolescents on their perceptions of algorithmic fairness and analyzed their responses to different technological scenarios
@@ -35,6 +36,7 @@ low-income high school students in Seattle, and studied impact of critically con
 **HCII Summer Undergraduate Research Program (June - August 2021)**
 
 - Advisor: [Prof. Amy Ogan](https://www.amyogan.com/) (_Human Computer Interaction Institute, Carnegie Mellon University_)
+
 - **Design-Based and Data-Driven Approach to Supporting Teachers in Low Infrastructure Contexts:** worked on a chatbot to support hundreds of teachers in low infrastructure contexts in Côte d’Ivoire [[Poster](https://drive.google.com/file/d/1dgRMjN74YXSNIuabXClYMu3LJKMMRVH7/view?usp=sharing)]
 
 ![Poster](images/HCII_REU_2021.png)
@@ -44,6 +46,7 @@ low-income high school students in Seattle, and studied impact of critically con
 **Penn Undergraduate Research Mentorship Program (PURM) (June - August 2020)**
 
 - Advisor: [Prof. Kathryn Davis](https://davislab.med.upenn.edu/) (_Penn Center for Neuroengineering and Therapeutics, University of Pennsylvania_)
+
 - **Machine learning of EEG to help diagnose epilepsy:** created a pipeline to predict brain functional connectivity from structural connectivity with Python using brain network analysis and machine learning techniques [[Poster for Penn CURF Fall Research Expo](https://presentations.curf.upenn.edu/poster/machine-learning-eeg-help-diagnose-epilepsy-predicting-functional-connectivity-structural)]
 
 ![Poster](images/PURM_REU_2020.png)
