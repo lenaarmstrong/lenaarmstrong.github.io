@@ -23,23 +23,22 @@ between strategies people use to circumvent automated systems and perceptions of
 **DUB REU Program (June - August 2022)**
 
 - Advisor: [Prof. Amy J. Ko](https://faculty.washington.edu/ajko) (_Code & Cognition Lab, University of Washington_)
-
 - **Perceptions of Automated Hiring:** [Poster](https://drive.google.com/file/d/1UyxGvT0-nu_sn6QEYdcHQVPNW3HBybPa/view?usp=sharing)
 - **How Adolescents Make Sense of Algorithmic Fairness**
 - **Critical Concious Computing**
+<br>
 <br>
 
 **HCII Summer Undergraduate Research Program (June - August 2021)**
 
 - Advisor: [Prof. Amy Ogan](https://www.amyogan.com/) (_Human Computer Interaction Institute, Carnegie Mellon University_)
-
 - **Design-Based and Data-Driven Approach to Supporting Teachers in Low Infrastructure Contexts:** [Poster](https://drive.google.com/file/d/1dgRMjN74YXSNIuabXClYMu3LJKMMRVH7/view?usp=sharing)
+<br>
 <br>
 
 **Penn Undergraduate Research Mentorship Program (PURM) (June - August 2020)**
 
 - Advisor: [Prof. Kathryn Davis](https://davislab.med.upenn.edu/) (_Penn Center for Neuroengineering and Therapeutics, University of Pennsylvania_)
-
 - **Machine learning of EEG to help diagnose epilepsy:** [Poster for Penn CURF Fall Research Expo](https://presentations.curf.upenn.edu/poster/machine-learning-eeg-help-diagnose-epilepsy-predicting-functional-connectivity-structural)
 <br>
 <br>
