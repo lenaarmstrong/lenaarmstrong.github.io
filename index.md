@@ -36,7 +36,7 @@ between strategies people use to circumvent automated systems and perceptions of
 - Advisor: [Prof. Amy Ogan](https://www.amyogan.com/) (_Human Computer Interaction Institute, Carnegie Mellon University_)
 - **Design-Based and Data-Driven Approach to Supporting Teachers in Low Infrastructure Contexts:** [Poster](https://drive.google.com/file/d/1dgRMjN74YXSNIuabXClYMu3LJKMMRVH7/view?usp=sharing)
 <br>
-![Poster](images/HCI_REU_2021.png)
+![Poster](images/HCII_REU_2021.png)
 <br>
 <br>
 
