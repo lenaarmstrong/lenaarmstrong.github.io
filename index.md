@@ -51,7 +51,7 @@ between strategies people use to circumvent automated systems and perceptions of
 
 - Women in Computer Science [(WICS)](https://wics.cis.upenn.edu/program.html) President
 
-- [PennGreen](https://sustainability.upenn.edu/participate/students/penngreen-pre-orientation) Co-Director (first-year sustainability-focused orientation program)
+- [PennGreen](https://sustainability.upenn.edu/participate/students/penngreen-pre-orientation) Co-Director (sustainability-focused orientation program for first-year students)
 
 - [West Philadelphia Tutoring Project](https://upennwptp.weebly.com/) tutor for middle school students in STEM
 
