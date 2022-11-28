@@ -74,4 +74,4 @@ Add hikes
 
 
 ---
-<p><small>Theme from <a href="https://github.com/evanca">evanca</a> & <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+<p><small>Theme from <a href="https://github.com/orderedlist">orderedlist</a> & <a href="https://github.com/evanca">evanca</a></small></p>
