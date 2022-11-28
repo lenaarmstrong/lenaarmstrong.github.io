@@ -1,12 +1,3 @@
-# Lena Armstrong
-
-<img src="Lena_Armstrong.png" alt="Image of Lena Armstrong" width="250px">
-
-<a href = "mailto: lena318@sas.upenn.edu">Email</a> 
-[LinkedIn](https://www.linkedin.com/in/lena-armstrong/)
-
-Lena is a computer science and cognitive science double major at the University of Pennsylvania. She is interested in mitigating algorithmic bias and improving CS education to create more inclusive and meaningful experiences with technology.
-
 ## Publications
 
 Jean Salac, **Lena Armstrong**, Audrey Le Meur, Alannah Oleson, Amy J. Ko. “How Adolescents Make Sense of Algorithmic
