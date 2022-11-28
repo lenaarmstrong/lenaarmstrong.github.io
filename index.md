@@ -21,7 +21,8 @@ between strategies people use to circumvent automated systems and perceptions of
 <br>
 <br>
 
-### Design Use Build (DUB) REU Program (June - August 2022)
+**Design Use Build (DUB) REU Program (June - August 2022)**
+
 - Advisor: [Prof. Amy J. Ko](https://faculty.washington.edu/ajko) (_Code & Cognition Lab, University of Washington_)
 
 -  **Perceptions of Automated Hiring:** created a project to determine first-time job seekers’ perceptions and experiences with automated hiring algorithms to determine bias and opacity [[Poster](https://drive.google.com/file/d/1UyxGvT0-nu_sn6QEYdcHQVPNW3HBybPa/view?usp=sharing)]
