@@ -20,7 +20,7 @@ Andrew Revell, Alexander Silva, Dhanya Mahesh, **Lena Armstrong**, Thomas Arnold
 between strategies people use to circumvent automated systems and perceptions of algorithmic fairness
 <br>
 
-**Design Use Build (DUB) REU Program (June - August 2022)**
+**Design Use Build REU Program (June - August 2022)**
 
 - Advisor: [Prof. Amy J. Ko](https://faculty.washington.edu/ajko) (_Code & Cognition Lab, University of Washington_)
 
@@ -43,7 +43,7 @@ low-income high school students in Seattle, and studied impact of critically con
 <br>
 <br>
 
-**Penn Undergraduate Research Mentorship Program (PURM) (June - August 2020)**
+**Penn Undergraduate Research Mentorship Program (June - August 2020)**
 
 - Advisor: [Prof. Kathryn Davis](https://davislab.med.upenn.edu/) (_Penn Center for Neuroengineering and Therapeutics, University of Pennsylvania_)
 
