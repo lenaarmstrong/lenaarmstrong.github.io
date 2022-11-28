@@ -16,8 +16,7 @@ Andrew Revell, Alexander Silva, Dhanya Mahesh, **Lena Armstrong**, Thomas Arnold
 
 - Advisor: [Prof. Danaë Metaxa](https://metaxa.net/) (_HCI Lab, University of Pennsylvania_)
 
-- **Fairness in Automated Hiring:** investigating opacity in automated hiring, how to conduct bias audits of automated hiring systems, and relationships
-between strategies people use to circumvent automated systems and perceptions of algorithmic fairness
+- **Fairness in Automated Hiring Algorithms:** investigating opacity in automated hiring, how to conduct bias audits of automated hiring systems, and relationships between strategies people use to circumvent automated systems and perceptions of algorithmic fairness
 <br>
 <br>
 
@@ -46,13 +45,15 @@ low-income high school students in Seattle, and studied impact of critically con
 <br>
 <br>
 
-**Penn Undergraduate Research Mentorship (PURM) Program (June - August 2020)**
+**Penn Center for Neuroengineering and Therapeutics (May 2020 - December 2021)**
 
-- Advisor: [Prof. Kathryn Davis](https://davislab.med.upenn.edu/) (_Penn Center for Neuroengineering and Therapeutics, University of Pennsylvania_)
+- Advisor: [Prof. Kathryn Davis](https://davislab.med.upenn.edu/) (_Davis Lab, University of Pennsylvania_)
 
 - **Machine learning of EEG to help diagnose epilepsy:** created a pipeline to predict brain functional connectivity from structural connectivity with Python using brain network analysis and machine learning techniques [[Poster for Penn Fall Research Expo](https://presentations.curf.upenn.edu/poster/machine-learning-eeg-help-diagnose-epilepsy-predicting-functional-connectivity-structural)]
 
 ![Poster](images/PURM_REU_2020.png)
+
+- **White Matter Signals Reflect Information Transmission Between Brain Regions During Seizures:** helped investigate differences between white matter and gray matter through functional recordings acquired by implantable devices and neuroimaging to better understand brain function and pathophysiology.
 <br>
 <br>
 
