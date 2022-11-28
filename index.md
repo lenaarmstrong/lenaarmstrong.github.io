@@ -48,7 +48,7 @@ low-income high school students in Seattle, and studied impact of critically con
 
 - Advisor: [Prof. Kathryn Davis](https://davislab.med.upenn.edu/) (_Penn Center for Neuroengineering and Therapeutics, University of Pennsylvania_)
 
-- **Machine learning of EEG to help diagnose epilepsy:** created a pipeline to predict brain functional connectivity from structural connectivity with Python using brain network analysis and machine learning techniques [[Poster for Penn CURF Fall Research Expo](https://presentations.curf.upenn.edu/poster/machine-learning-eeg-help-diagnose-epilepsy-predicting-functional-connectivity-structural)]
+- **Machine learning of EEG to help diagnose epilepsy:** created a pipeline to predict brain functional connectivity from structural connectivity with Python using brain network analysis and machine learning techniques [[Poster for Penn Fall Research Expo](https://presentations.curf.upenn.edu/poster/machine-learning-eeg-help-diagnose-epilepsy-predicting-functional-connectivity-structural)]
 
 ![Poster](images/PURM_REU_2020.png)
 <br>
