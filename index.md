@@ -11,48 +11,40 @@ Andrew Revell, Alexander Silva, Dhanya Mahesh, **Lena Armstrong**, Thomas Arnold
 
 ## Projects
 
-**Fairness in Automated Hiring (Senior Honors Thesis at the University of Pennsylvania)**
+### Senior Honors Thesis
+(_HCI Lab, University of Pennsylvania_)
 
-Advisor: Prof. Danaë Metaxa 
+Advisor: [Prof. Danaë Metaxa](https://metaxa.net/)
+
+- **Fairness in Automated Hiring:** investigating opacity in automated hiring, how to conduct bias audits of automated hiring systems, and relationships
+between strategies people use to circumvent automated systems and perceptions of algorithmic fairness
+<br></br>
+
+### DUB REU Program 
+(_Code & Cognition Lab, University of Washington_)
+
+Advisor: [Prof. Amy J. Ko](https://faculty.washington.edu/ajko)
+
+- **Perceptions of Automated Hiring:** [Poster](https://drive.google.com/file/d/1UyxGvT0-nu_sn6QEYdcHQVPNW3HBybPa/view?usp=sharing)
+- **How Adolescents Make Sense of Algorithmic Fairness**
+- **Critical Concious Computing**
+<br></br>
+
+###  HCII Summer Undergraduate Research Program
+(_Human Computer Interaction Institute, Carnegie Mellon University_)
+
+Advisor: [Prof. Amy Ogan](https://www.amyogan.com/)
+
+- **Design-Based and Data-Driven Approach to Supporting Teachers in Low Infrastructure Contexts:** [Poster](https://drive.google.com/file/d/1dgRMjN74YXSNIuabXClYMu3LJKMMRVH7/view?usp=sharing)
 <br></br>
 
 
-**Perceptions of Automated Hiring (University of Washington)**
+**Penn Undergraduate Research Mentorship Program (PURM)**
+(_Penn Center for Neuroengineering and Therapeutics, University of Pennsylvania_)
 
-Advisor: Prof. Amy J. Ko
+Advisor: [Prof. Kathryn Davis](https://davislab.med.upenn.edu/)
 
-[Poster for DUB Summer REU Program](https://drive.google.com/file/d/1UyxGvT0-nu_sn6QEYdcHQVPNW3HBybPa/view?usp=sharing)
-<br></br>
-
-
-**How Adolescents Make Sense of Algorithmic Fairness (University of Washington)**
-
-Advisor: Prof. Amy J. Ko
-
-
-**Critical Concious Computing (University of Washington)**
-
-Advisor: Prof. Amy J. Ko
-<br></br>
-
-
-**Design-Based and Data-Driven Approach to Supporting Teachers in Low Infrastructure Contexts (Carnegie Mellon University)**
-
-Advisor: Prof. Amy Ogan
-
-[Poster for HCII Summer REU Program](https://drive.google.com/file/d/1dgRMjN74YXSNIuabXClYMu3LJKMMRVH7/view?usp=sharing)
-<br></br>
-
-
-**Design-Based and Data-Driven Approach to Supporting Teachers in Low Infrastructure Contexts (Carnegie Mellon University)**
-
-Advisor: Prof. Kathryn Davis
-
-Through Penn Undergraduate Research Mentorship Program (PURM), researched machine learning of EEG and brain network analysis for epilepsy diagnosis 
-
-[Poster for Penn CURF Fall Research Expo]([https://drive.google.com/file/d/1dgRMjN74YXSNIuabXClYMu3LJKMMRVH7/view?usp=sharing](https://presentations.curf.upenn.edu/poster/machine-learning-eeg-help-diagnose-epilepsy-predicting-functional-connectivity-structural))
-
-Publication: Andrew Revell, Alexander Silva, Dhanya Mahesh, **Lena Armstrong**, Thomas Arnold, John Bernabei, Brain Litt, Ezquiel Gleichgerrcht, Leonardo Bonilha, Joel Stein, Sandhitsu Das, Russell Shinohara, Danielle Bassett, Kathryn Davis. “White Matter Signals Reflect Information Transmission Between Brain Regions During Seizures.” Brain (in review)
+- **Machine learning of EEG to help diagnose epilepsy:** [Poster for Penn CURF Fall Research Expo](https://presentations.curf.upenn.edu/poster/machine-learning-eeg-help-diagnose-epilepsy-predicting-functional-connectivity-structural)
 <br></br>
 
 
