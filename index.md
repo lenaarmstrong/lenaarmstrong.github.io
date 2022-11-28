@@ -26,7 +26,7 @@ between strategies people use to circumvent automated systems and perceptions of
 - **How Adolescents Make Sense of Algorithmic Fairness**
 - **Critical Concious Computing**
 -  **Perceptions of Automated Hiring:** [Poster](https://drive.google.com/file/d/1UyxGvT0-nu_sn6QEYdcHQVPNW3HBybPa/view?usp=sharing)
-<br>
+
 ![Poster](images/DUB_REU_2022.png)
 <br>
 <br>
@@ -35,7 +35,7 @@ between strategies people use to circumvent automated systems and perceptions of
 
 - Advisor: [Prof. Amy Ogan](https://www.amyogan.com/) (_Human Computer Interaction Institute, Carnegie Mellon University_)
 - **Design-Based and Data-Driven Approach to Supporting Teachers in Low Infrastructure Contexts:** [Poster](https://drive.google.com/file/d/1dgRMjN74YXSNIuabXClYMu3LJKMMRVH7/view?usp=sharing)
-<br>
+
 ![Poster](images/HCII_REU_2021.png)
 <br>
 <br>
@@ -44,7 +44,7 @@ between strategies people use to circumvent automated systems and perceptions of
 
 - Advisor: [Prof. Kathryn Davis](https://davislab.med.upenn.edu/) (_Penn Center for Neuroengineering and Therapeutics, University of Pennsylvania_)
 - **Machine learning of EEG to help diagnose epilepsy:** [Poster for Penn CURF Fall Research Expo](https://presentations.curf.upenn.edu/poster/machine-learning-eeg-help-diagnose-epilepsy-predicting-functional-connectivity-structural)
-<br>
+
 ![Poster](images/PURM_REU_2020.png)
 <br>
 <br>
