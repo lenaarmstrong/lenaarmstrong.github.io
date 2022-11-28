@@ -12,16 +12,14 @@ Andrew Revell, Alexander Silva, Dhanya Mahesh, **Lena Armstrong**, Thomas Arnold
 
 ## Research Projects
 
-**Senior Honors Thesis (August 2022 - Present)** 
-
+### Senior Honors Thesis (August 2022 - Present) 
 - Advisor: [Prof. Danaë Metaxa](https://metaxa.net/) (_HCI Lab, University of Pennsylvania_)
 
 - **Fairness in Automated Hiring:** investigating opacity in automated hiring, how to conduct bias audits of automated hiring systems, and relationships
 between strategies people use to circumvent automated systems and perceptions of algorithmic fairness
-<br>
 
-**Design Use Build (DUB) REU Program (June - August 2022)**
 
+### Design Use Build (DUB) REU Program (June - August 2022)
 - Advisor: [Prof. Amy J. Ko](https://faculty.washington.edu/ajko) (_Code & Cognition Lab, University of Washington_)
 
 -  **Perceptions of Automated Hiring:** created a project to determine first-time job seekers’ perceptions and experiences with automated hiring algorithms to determine bias and opacity [[Poster](https://drive.google.com/file/d/1UyxGvT0-nu_sn6QEYdcHQVPNW3HBybPa/view?usp=sharing)]
@@ -32,28 +30,23 @@ between strategies people use to circumvent automated systems and perceptions of
 
 - **Critical Concious Computing:** taught an algorithmic fairness and computer science as part of the Upward Bound program for first-generation,
 low-income high school students in Seattle, and studied impact of critically conscious computing education
-<br>
-<br>
 
-**HCII Summer Undergraduate Research Program (June - August 2021)**
 
+### HCII Summer Undergraduate Research Program (June - August 2021)
 - Advisor: [Prof. Amy Ogan](https://www.amyogan.com/) (_Human Computer Interaction Institute, Carnegie Mellon University_)
 
 - **Design-Based and Data-Driven Approach to Supporting Teachers in Low Infrastructure Contexts:** worked on a chatbot to support hundreds of teachers in low infrastructure contexts in Côte d’Ivoire [[Poster](https://drive.google.com/file/d/1dgRMjN74YXSNIuabXClYMu3LJKMMRVH7/view?usp=sharing)]
 
 ![Poster](images/HCII_REU_2021.png)
-<br>
-<br>
 
-**Penn Undergraduate Research Mentorship (PURM) Program (June - August 2020)**
 
+### Penn Undergraduate Research Mentorship (PURM) Program (June - August 2020)
 - Advisor: [Prof. Kathryn Davis](https://davislab.med.upenn.edu/) (_Penn Center for Neuroengineering and Therapeutics, University of Pennsylvania_)
 
 - **Machine learning of EEG to help diagnose epilepsy:** created a pipeline to predict brain functional connectivity from structural connectivity with Python using brain network analysis and machine learning techniques [[Poster for Penn Fall Research Expo](https://presentations.curf.upenn.edu/poster/machine-learning-eeg-help-diagnose-epilepsy-predicting-functional-connectivity-structural)]
 
 ![Poster](images/PURM_REU_2020.png)
-<br>
-<br>
+
 
 ## Other things I have been involved with:
 
