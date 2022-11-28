@@ -53,7 +53,7 @@ low-income high school students in Seattle, and studied impact of critically con
 
 ![Poster](images/PURM_REU_2020.png)
 
-- **White Matter Signals Reflect Information Transmission Between Brain Regions During Seizures:** helped investigate differences between white matter and gray matter through functional recordings acquired by implantable devices and neuroimaging to better understand brain function and pathophysiology.
+- **White Matter Signals Reflect Information Transmission Between Brain Regions During Seizures:** helped investigate differences between white matter and gray matter through functional recordings acquired by implantable devices and neuroimaging to better understand brain function and pathophysiology
 <br>
 <br>
 
