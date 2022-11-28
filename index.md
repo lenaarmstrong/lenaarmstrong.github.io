@@ -12,7 +12,7 @@ Andrew Revell, Alexander Silva, Dhanya Mahesh, **Lena Armstrong**, Thomas Arnold
 
 ## Research Projects
 
-**Senior Honors Thesis (August 2022 - Present) **
+**Senior Honors Thesis (August 2022 - Present)**
 
 - Advisor: [Prof. Danaë Metaxa](https://metaxa.net/) (_HCI Lab, University of Pennsylvania_)
 
