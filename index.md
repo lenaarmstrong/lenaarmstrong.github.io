@@ -20,16 +20,17 @@ Andrew Revell, Alexander Silva, Dhanya Mahesh, **Lena Armstrong**, Thomas Arnold
 between strategies people use to circumvent automated systems and perceptions of algorithmic fairness
 <br>
 
-**Design Use Build REU Program (June - August 2022)**
+**Design Use Build (DUB) REU Program (June - August 2022)**
 
 - Advisor: [Prof. Amy J. Ko](https://faculty.washington.edu/ajko) (_Code & Cognition Lab, University of Washington_)
+
+-  **Perceptions of Automated Hiring:** created a project to determine first-time job seekers’ perceptions and experiences with automated hiring algorithms to determine bias and opacity [[Poster](https://drive.google.com/file/d/1UyxGvT0-nu_sn6QEYdcHQVPNW3HBybPa/view?usp=sharing)]
+
+![Poster](images/DUB_REU_2022.png)
 
 - **Critical Concious Computing:** taught an algorithmic fairness and computer science as part of the Upward Bound program for first-generation,
 low-income high school students in Seattle, and studied impact of critically conscious computing education
 - **How Adolescents Make Sense of Algorithmic Fairness:** interviewed adolescents on their perceptions of algorithmic fairness and analyzed their responses to different technological scenarios
--  **Perceptions of Automated Hiring:** created a project to determine first-time job seekers’ perceptions and experiences with automated hiring algorithms to determine bias and opacity [[Poster](https://drive.google.com/file/d/1UyxGvT0-nu_sn6QEYdcHQVPNW3HBybPa/view?usp=sharing)]
-
-![Poster](images/DUB_REU_2022.png)
 <br>
 <br>
 
