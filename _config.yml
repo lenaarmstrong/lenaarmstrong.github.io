@@ -1,11 +1,12 @@
 title: Lena Armstrong
 logo: "/images/Lena_Armstrong.png"
 description: >
+  <br><br>
   Lena is a computer science and cognitive science double major at the University of Pennsylvania. 
   She is interested in mitigating algorithmic bias and improving CS education to create more inclusive and meaningful experiences with technology.
   <br><br>
   <a href = "mailto: lena318@sas.upenn.edu">Email</a> 
-  <br><br>
+  <br>
   <a href="https://www.linkedin.com/in/lena-armstrong/">LinkedIn</a> 
   
 theme: jekyll-theme-minimal
