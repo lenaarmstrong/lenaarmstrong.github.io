@@ -59,11 +59,5 @@ between strategies people use to circumvent automated systems and perceptions of
 <br>
 <br>
 
-## When I am not coding...
-
-I love designing and hiking!
-
-
-
 ---
 <p><small>Theme from <a href="https://github.com/orderedlist">orderedlist</a> & <a href="https://github.com/evanca">evanca</a></small></p>
