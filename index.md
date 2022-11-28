@@ -75,5 +75,4 @@ Add hikes
 
 
 ---
-<p style="font-size:11px">Theme from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<p><small>Theme from <a href="https://github.com/evanca">evanca</a> & <a href="https://github.com/orderedlist">orderedlist</a></small></p>
