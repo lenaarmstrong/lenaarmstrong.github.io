@@ -1,12 +1,12 @@
 ## Publications
 
 Jean Salac, **Lena Armstrong**, Audrey Le Meur, Alannah Oleson, Amy J. Ko. “How Adolescents Make Sense of Algorithmic
-Fairness.” _(in review at CHI)_
+Fairness.” _(under review)_
 
 **Lena Armstrong**, Jayne Everson, Amy J. Ko. “First-time Computing Job Applicants' Perceptions of Automated Hiring
 Algorithms.” _(in preparation)_
 
-Andrew Revell, Alexander Silva, Dhanya Mahesh, **Lena Armstrong**, Thomas Arnold, John Bernabei, Brain Litt, Ezquiel Gleichgerrcht, Leonardo Bonilha, Joel Stein, Sandhitsu Das, Russell Shinohara, Danielle Bassett, Kathryn Davis. “White Matter Signals Reflect Information Transmission Between Brain Regions During Seizures.” _(in review at Brain)_
+Andrew Revell, Alexander Silva, Dhanya Mahesh, **Lena Armstrong**, Thomas Arnold, John Bernabei, Brain Litt, Ezquiel Gleichgerrcht, Leonardo Bonilha, Joel Stein, Sandhitsu Das, Russell Shinohara, Danielle Bassett, Kathryn Davis. “White Matter Signals Reflect Information Transmission Between Brain Regions During Seizures.” _(under review)_
 <br>
 <br>
 
