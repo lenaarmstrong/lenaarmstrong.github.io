@@ -1,10 +1,9 @@
 ## Publications
+**Lena Armstrong**, Jayne Everson, Amy J. Ko. “Navigating a Blackbox: Students' Experiences and Perceptions of Automated Hiring.” _(under review)_
 
-Jean Salac, **Lena Armstrong**, Audrey Le Meur, Alannah Oleson, Amy J. Ko. “How Adolescents Make Sense of Algorithmic
-Fairness.” _(under review)_
+Jean Salac, Alannah Oleson, **Lena Armstrong**, Audrey Le Meur, Amy J. Ko. “Funds of Knowledge used by Adolescents of Color in Scaffolded Sensemaking around Algorithmic Fairness.” _(under review)_
 
-**Lena Armstrong**, Jayne Everson, Amy J. Ko. “First-time Computing Job Applicants' Perceptions of Automated Hiring
-Algorithms.” _(in preparation)_
+Jean Salac, **Lena Armstrong**, Megumi Kivuva, Jayne Everson, Alannah Oleson, Amy J. Ko. “Supporting Adolescents in Developing Critical Computing Consciousness.” _(under review)_
 
 Andrew Revell, Alexander Silva, Dhanya Mahesh, **Lena Armstrong**, Thomas Arnold, John Bernabei, Brain Litt, Ezquiel Gleichgerrcht, Leonardo Bonilha, Joel Stein, Sandhitsu Das, Russell Shinohara, Danielle Bassett, Kathryn Davis. “White Matter Signals Reflect Information Transmission Between Brain Regions During Seizures.” _(under review)_
 <br>
