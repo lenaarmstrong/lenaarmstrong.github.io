@@ -5,11 +5,14 @@ links: >
   <a href = "mailto: lena318@sas.upenn.edu">Email</a> | <a href="https://drive.google.com/file/d/1SqxnI-eqs8rH7F7hifjnnv7Kf8yKlkhe/view?usp=sharing">CV</a> | <a href="https://www.linkedin.com/in/lena-armstrong/">LinkedIn</a> 
   <br>
 description: >
-  Lena Armstrong is a computer science and cognitive science double major at the University of Pennsylvania.
-  Her research has focused on human computer interaction, algorithmic fairness, and improving computer science education. 
+  Lena Armstrong is a recent University of Pennsylvania graduate where she studied computer science and cognitive science. 
+  She will be starting a PhD in Computer Science at Harvard University and working with 
+  [Fernanda Viegas]([url](http://www.fernandaviegas.com/about)) and [Martin Wattenberg]([url](https://www.bewitched.com/)) 
+  at the Insight & Interaction Lab. Her research has focused on human computer interaction, algorithmic fairness, and improving computer science education. 
   <br><br>
   She is interested in bridging humans and technology for social impact, understanding bias and opacity in automated systems, 
   and encouraging more inclusive experiences in computer science. 
+
 
   
 theme: jekyll-theme-minimal
