@@ -1,11 +1,14 @@
 ## Publications
-**Lena Armstrong**, Jayne Everson, Amy J. Ko. “Navigating a Blackbox: Students' Experiences and Perceptions of Automated Hiring.” _(accepted to ICER)_
 
-Jean Salac, Alannah Oleson, **Lena Armstrong**, Audrey Le Meur, Amy J. Ko. “Funds of Knowledge used by Adolescents of Color in Scaffolded Sensemaking around Algorithmic Fairness.” _(accepted to ICER)_
+**Lena Armstrong**, Jayne Everson, Amy J. Ko. [“Navigating a Blackbox: Students' Experiences and Perceptions of Automated Hiring.”]([url](https://faculty.washington.edu/ajko/papers/Armstrong2023AutomatedHiring.pdf)) ICER 2023. 
 
-Jean Salac, **Lena Armstrong**, Megumi Kivuva, Jayne Everson, Alannah Oleson, Amy J. Ko. “Supporting Adolescents in Developing Critical Computing Consciousness.” _(under review)_
+Jean Salac, Alannah Oleson, **Lena Armstrong**, Audrey Le Meur, Amy J. Ko. “[Funds of Knowledge used by Adolescents of Color in Scaffolded Sensemaking around Algorithmic Fairness]([url](https://faculty.washington.edu/ajko/papers/Salac2023AdolescentAlgorithmicFairness.pdf)).” ICER 2023. **[BEST PAPER]**
 
-Andrew Revell, Alexander Silva, Dhanya Mahesh, **Lena Armstrong**, Thomas Arnold, John Bernabei, Brain Litt, Ezquiel Gleichgerrcht, Leonardo Bonilha, Joel Stein, Sandhitsu Das, Russell Shinohara, Danielle Bassett, Kathryn Davis. “White Matter Signals Reflect Information Transmission Between Brain Regions During Seizures.” _(under review)_
+Jean Salac, **Lena Armstrong**, Megumi Kivuva, Jayne Everson, Alannah Oleson, Amy J. Ko. “Supporting Adolescents in Developing Critical Computing Consciousness.” _(submitted)_
+
+Andrew Revell, Alexander Silva, Dhanya Mahesh, **Lena Armstrong**, Thomas Arnold, John Bernabei, Brain Litt, Ezquiel Gleichgerrcht, Leonardo Bonilha, Joel Stein, Sandhitsu Das, Russell Shinohara, Danielle Bassett, Kathryn Davis. “White Matter Signals Reflect Information Transmission Between Brain Regions During Seizures.” _(submitted)_
+
+**Lena Armstrong** and Danaë Metaxa. “Computing Students’ Strategies and Perceptions of Fairness in Navigating Automated Hiring.” (in progress)
 <br>
 <br>
 
