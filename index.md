@@ -60,8 +60,9 @@ low-income high school students in Seattle, and studied impact of critically con
 <br>
 
 ## Work and Leadership Experiences
+
 - Head Teaching Assistant for Introduction to Human Computer Interction [(CIS 4120/5120)](https://emoneil.github.io/cis4120-5120/#schedule)
-- 
+  
 - Head Teaching Assistant for Introduction to Computer Programming [(CIS 1100)](https://www.cis.upenn.edu/~cis110/current/staff.html)
 
 - Project Manager and UN Liaison at an NGO [Hecho por Nosotros](https://www.hechoxnosotros.org/) working to improve the sustainability of the fashion industry through transparency & traceability techology
