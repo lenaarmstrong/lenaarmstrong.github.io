@@ -8,7 +8,7 @@ Jean Salac, **Lena Armstrong**, Megumi Kivuva, Jayne Everson, Alannah Oleson, Am
 
 Andrew Revell, Alexander Silva, Dhanya Mahesh, **Lena Armstrong**, Thomas Arnold, John Bernabei, Brain Litt, Ezquiel Gleichgerrcht, Leonardo Bonilha, Joel Stein, Sandhitsu Das, Russell Shinohara, Danielle Bassett, Kathryn Davis. “White Matter Signals Reflect Information Transmission Between Brain Regions During Seizures.” _(submitted)_
 
-**Lena Armstrong** and Danaë Metaxa. “Computing Students’ Strategies and Perceptions of Fairness in Navigating Automated Hiring.” (in progress)
+**Lena Armstrong** and Danaë Metaxa. “Computing Students’ Strategies and Perceptions of Fairness in Navigating Automated Hiring.” _(in progress)_
 <br>
 <br>
 
