@@ -1,5 +1,9 @@
 ## Publications
 
+**Lena Armstrong**, Abby Liu, Steve MacNeil, and Danaë Metaxa. “The Silicone Ceiling: Auditing GPT's Race and Gender Biases in Hiring” _(submitted)_
+
+**Lena Armstrong** and Danaë Metaxa. “Navigating Automated Hiring: Fairness Perceptions, Strategy Use, and Outcomes Among Young Job Seekers.” _(submitted)_
+
 **Lena Armstrong**, Jayne Everson, Amy J. Ko. [“Navigating a Blackbox: Students' Experiences and Perceptions of Automated Hiring.”](https://faculty.washington.edu/ajko/papers/Armstrong2023AutomatedHiring.pdf) ICER 2023. 
 
 Jean Salac, Alannah Oleson, **Lena Armstrong**, Audrey Le Meur, Amy J. Ko. “[Funds of Knowledge used by Adolescents of Color in Scaffolded Sensemaking around Algorithmic Fairness](https://faculty.washington.edu/ajko/papers/Salac2023AdolescentAlgorithmicFairness.pdf).” ICER 2023. **[BEST PAPER]**
@@ -8,7 +12,6 @@ Jean Salac, **Lena Armstrong**, Megumi Kivuva, Jayne Everson, Alannah Oleson, Am
 
 Andrew Revell, Alexander Silva, Dhanya Mahesh, **Lena Armstrong**, Thomas Arnold, John Bernabei, Brain Litt, Ezquiel Gleichgerrcht, Leonardo Bonilha, Joel Stein, Sandhitsu Das, Russell Shinohara, Danielle Bassett, Kathryn Davis. “White Matter Signals Reflect Information Transmission Between Brain Regions During Seizures.” _(submitted)_
 
-**Lena Armstrong** and Danaë Metaxa. “Computing Students’ Strategies and Perceptions of Fairness in Navigating Automated Hiring.” _(in progress)_
 <br>
 <br>
 
