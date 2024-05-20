@@ -4,30 +4,32 @@
 
 Jean Salac, Alannah Oleson, **Lena Armstrong**, Audrey Le Meur, Amy J. Ko. “[Funds of Knowledge used by Adolescents of Color in Scaffolded Sensemaking around Algorithmic Fairness](https://faculty.washington.edu/ajko/papers/Salac2023AdolescentAlgorithmicFairness.pdf).” ICER 2023. **[BEST PAPER]**
 
-**Lena Armstrong**, Abby Liu, Steve MacNeil, and Danaë Metaxa. “The Silicone Ceiling: Auditing GPT's Race and Gender Biases in Hiring” _(submitted)_
+**Lena Armstrong**, Abby Liu, Steve MacNeil, and Danaë Metaxa. “[The Silicon Ceiling: Auditing GPT's Race and Gender Biases in Hiring](https://arxiv.org/abs/2405.04412)." _(submitted)_
 
 **Lena Armstrong** and Danaë Metaxa. “Navigating Automated Hiring: Fairness Perceptions, Strategy Use, and Outcomes Among Young Job Seekers.” _(submitted)_
 
 Jean Salac, **Lena Armstrong**, Megumi Kivuva, Jayne Everson, Alannah Oleson, Amy J. Ko. “Supporting Adolescents in Developing Critical Computing Consciousness.” _(submitted)_
 
-Andrew Revell, Alexander Silva, Dhanya Mahesh, **Lena Armstrong**, Thomas Arnold, John Bernabei, Brain Litt, Ezquiel Gleichgerrcht, Leonardo Bonilha, Joel Stein, Sandhitsu Das, Russell Shinohara, Danielle Bassett, Kathryn Davis. “White Matter Signals Reflect Information Transmission Between Brain Regions During Seizures.” _(submitted)_
+Andrew Revell, Alexander Silva, Dhanya Mahesh, **Lena Armstrong**, Thomas Arnold, John Bernabei, Brain Litt, Ezquiel Gleichgerrcht, Leonardo Bonilha, Joel Stein, Sandhitsu Das, Russell Shinohara, Danielle Bassett, Kathryn Davis. “[White Matter Signals Reflect Information Transmission Between Brain Regions During Seizures.](https://www.biorxiv.org/content/10.1101/2021.09.15.460549v2.abstract)" _(submitted)_
 
 <br>
 <br>
 
 ## Research Projects
 
-**Senior Honors Thesis (August 2022 - Present)**
+**Senior Honors Thesis & Continued Research (August 2022 - Present)**
 
-- Advisor: [Prof. Danaë Metaxa](https://metaxa.net/) (_HCI Lab, University of Pennsylvania_)
+- Advisor: [Prof. Danaë Metaxa](https://metaxa.net/) (_[Penn HCI Lab](https://pennhci.com/)), University of Pennsylvania_)
 
-- **Fairness in Automated Hiring Algorithms:** investigating opacity in automated hiring, how to conduct bias audits of automated hiring systems, and relationships between strategies people use to circumvent automated systems and perceptions of algorithmic fairness
+- **GPT Resume Audit:** conducted an algorithm audit of GPT’s use in resume screening and found evidence of bias based on stereotypes
+
+- **Fairness in Automated Hiring Algorithms:** investigated bias and opacity in automated hiring and relationships between strategies people use to circumvent automated systems and perceptions of algorithmic fairness
 <br>
 <br>
 
 **Design Use Build (DUB) REU Program (June - August 2022)**
 
-- Advisor: [Prof. Amy J. Ko](https://faculty.washington.edu/ajko) (_Code & Cognition Lab, University of Washington_)
+- Advisor: [Prof. Amy J. Ko](https://faculty.washington.edu/ajko) (_[Center for Learning, Computing, and Imagination](https://faculty.washington.edu/ajko/lab), University of Washington_)
 
 1. **How Adolescents Make Sense of Algorithmic Fairness:** interviewed adolescents on their perceptions of algorithmic fairness and analyzed their responses to different technological scenarios
 
