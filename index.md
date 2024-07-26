@@ -1,6 +1,6 @@
 ## Publications
 
-**Lena Armstrong**, Abbey Liu, Steve MacNeil, and Danaë Metaxa. “[The Silicon Ceiling: Auditing GPT's Race and Gender Biases in Hiring](https://arxiv.org/abs/2405.04412)." EAAMO 2024.
+**Lena Armstrong**, Abbey Liu, Stephen MacNeil, and Danaë Metaxa. “[The Silicon Ceiling: Auditing GPT's Race and Gender Biases in Hiring](https://arxiv.org/abs/2405.04412)." EAAMO 2024.
 
 **Lena Armstrong**, Jayne Everson, Amy J. Ko. [“Navigating a Blackbox: Students' Experiences and Perceptions of Automated Hiring.”](https://faculty.washington.edu/ajko/papers/Armstrong2023AutomatedHiring.pdf) ICER 2023. 
 
