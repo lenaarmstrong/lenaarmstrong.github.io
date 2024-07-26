@@ -1,10 +1,10 @@
 ## Publications
 
+**Lena Armstrong**, Abby Liu, Steve MacNeil, and Danaë Metaxa. “[The Silicon Ceiling: Auditing GPT's Race and Gender Biases in Hiring](https://arxiv.org/abs/2405.04412)." EAAMO 2024.
+
 **Lena Armstrong**, Jayne Everson, Amy J. Ko. [“Navigating a Blackbox: Students' Experiences and Perceptions of Automated Hiring.”](https://faculty.washington.edu/ajko/papers/Armstrong2023AutomatedHiring.pdf) ICER 2023. 
 
 Jean Salac, Alannah Oleson, **Lena Armstrong**, Audrey Le Meur, Amy J. Ko. “[Funds of Knowledge used by Adolescents of Color in Scaffolded Sensemaking around Algorithmic Fairness](https://faculty.washington.edu/ajko/papers/Salac2023AdolescentAlgorithmicFairness.pdf).” ICER 2023. **[BEST PAPER]**
-
-**Lena Armstrong**, Abby Liu, Steve MacNeil, and Danaë Metaxa. “[The Silicon Ceiling: Auditing GPT's Race and Gender Biases in Hiring](https://arxiv.org/abs/2405.04412)." EAAMO 2024.
 
 **Lena Armstrong** and Danaë Metaxa. “Navigating Automated Hiring: Fairness Perceptions, Strategy Use, and Outcomes Among Young Job Seekers.” _(submitted)_
 
