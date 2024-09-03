@@ -16,28 +16,13 @@ Andrew Revell, Alexander Silva, Dhanya Mahesh, **Lena Armstrong**, Thomas Arnold
 <br>
 <br>
 
-## Research Projects
-
-**Senior Honors Thesis & AI Auditing (August 2022 - 2024)**
-
-- Advisor: [Prof. Danaë Metaxa](https://metaxa.net/) (_[Penn HCI Lab](https://pennhci.com/)), University of Pennsylvania_)
-
-- **GPT Resume Audit:** conducted an algorithm audit of GPT’s use in resume screening and found evidence of bias based on stereotypes
-
-- **Fairness in Automated Hiring Algorithms:** investigated bias and opacity in automated hiring and relationships between strategies people use to circumvent automated systems and perceptions of algorithmic fairness
-<br>
-<br>
+## Posters
 
 **Design Use Build (DUB) REU Program (June - August 2022)**
 
 - Advisor: [Prof. Amy J. Ko](https://faculty.washington.edu/ajko) (_[Center for Learning, Computing, and Imagination](https://faculty.washington.edu/ajko/lab), University of Washington_)
 
-1. **How Adolescents Make Sense of Algorithmic Fairness:** interviewed adolescents on their perceptions of algorithmic fairness and analyzed their responses to different technological scenarios
-
-2. **Critical Concious Computing:** taught an algorithmic fairness and computer science as part of the Upward Bound program for first-generation,
-low-income high school students in Seattle, and studied impact of critically conscious computing education
-
-3.  **Perceptions of Automated Hiring:** created a project to determine first-time job seekers’ perceptions and experiences with automated hiring algorithms to determine bias and opacity [[Poster](https://drive.google.com/file/d/1UyxGvT0-nu_sn6QEYdcHQVPNW3HBybPa/view?usp=sharing)]
+- **Perceptions of Automated Hiring:** created a project to determine first-time job seekers’ perceptions and experiences with automated hiring algorithms to determine bias and opacity [[Poster](https://drive.google.com/file/d/1UyxGvT0-nu_sn6QEYdcHQVPNW3HBybPa/view?usp=sharing)]
 
   ![Poster](images/DUB_REU_2022.png)
 <br>
@@ -57,9 +42,7 @@ low-income high school students in Seattle, and studied impact of critically con
 
 - Advisor: [Prof. Kathryn Davis](https://davislab.med.upenn.edu/) (_Davis Lab, University of Pennsylvania_)
 
-1. **White Matter Signals Reflect Information Transmission Between Brain Regions During Seizures:** helped investigate differences between white matter and gray matter through functional recordings acquired by implantable devices and neuroimaging to better understand brain function and pathophysiology
-
-2. **Machine learning of EEG to help diagnose epilepsy:** created a pipeline to predict brain functional connectivity from structural connectivity with Python using brain network analysis and machine learning techniques [[Poster for Penn Fall Research Expo](https://presentations.curf.upenn.edu/poster/machine-learning-eeg-help-diagnose-epilepsy-predicting-functional-connectivity-structural)]
+- **Machine learning of EEG to help diagnose epilepsy:** created a pipeline to predict brain functional connectivity from structural connectivity with Python using brain network analysis and machine learning techniques [[Poster for Penn Fall Research Expo](https://presentations.curf.upenn.edu/poster/machine-learning-eeg-help-diagnose-epilepsy-predicting-functional-connectivity-structural)]
 
   ![Poster](images/PURM_REU_2020.png)
 <br>
