@@ -6,9 +6,10 @@
 
 Jean Salac, Alannah Oleson, **Lena Armstrong**, Audrey Le Meur, Amy J. Ko. “[Funds of Knowledge used by Adolescents of Color in Scaffolded Sensemaking around Algorithmic Fairness](https://faculty.washington.edu/ajko/papers/Salac2023AdolescentAlgorithmicFairness.pdf).” ICER 2023. **[BEST PAPER]**
 
-**Lena Armstrong** and Danaë Metaxa. “Navigating Automated Hiring: Fairness Perceptions, Strategy Use, and Outcomes Among Young Job Seekers.” _(submitted)_
+Jean Salac, **Lena Armstrong**, Megumi Kivuva, Jayne Everson, Alannah Oleson, Amy J. Ko. “How Economically-Marginalized Adolescents of Color Negotiate Critical
+Pedagogy in a Computing Classroom.” _(accepted to TOCE)_
 
-Jean Salac, **Lena Armstrong**, Megumi Kivuva, Jayne Everson, Alannah Oleson, Amy J. Ko. “Supporting Adolescents in Developing Critical Computing Consciousness.” _(submitted)_
+**Lena Armstrong** and Danaë Metaxa. “Navigating Automated Hiring: Fairness Perceptions, Strategy Use, and Outcomes Among Young Job Seekers.” _(submitted)_
 
 Andrew Revell, Alexander Silva, Dhanya Mahesh, **Lena Armstrong**, Thomas Arnold, John Bernabei, Brain Litt, Ezquiel Gleichgerrcht, Leonardo Bonilha, Joel Stein, Sandhitsu Das, Russell Shinohara, Danielle Bassett, Kathryn Davis. “[White Matter Signals Reflect Information Transmission Between Brain Regions During Seizures.](https://www.biorxiv.org/content/10.1101/2021.09.15.460549v2.abstract)" _(submitted)_
 
@@ -17,7 +18,7 @@ Andrew Revell, Alexander Silva, Dhanya Mahesh, **Lena Armstrong**, Thomas Arnold
 
 ## Research Projects
 
-**Senior Honors Thesis & Continued Research (August 2022 - Present)**
+**Senior Honors Thesis & AI Auditing (August 2022 - 2024)**
 
 - Advisor: [Prof. Danaë Metaxa](https://metaxa.net/) (_[Penn HCI Lab](https://pennhci.com/)), University of Pennsylvania_)
 
