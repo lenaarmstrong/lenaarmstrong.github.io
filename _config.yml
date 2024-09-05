@@ -2,9 +2,9 @@ title: Lena Armstrong
 logo: "/images/lena-armstrong.png"
 links: >
   <br>
-  <a href = "mailto: larmstrong@g.harvard.edu"><img src="/images/email.png"></a> | 
-  <a href="https://scholar.google.com/citations?user=ozOmcJQAAAAJ&hl=en&oi=ao"><img src="/images/googlescholar.svg"></a> | 
-  <a href="https://www.linkedin.com/in/lena-armstrong/"><img src="/images/linkedin.svg"></a> 
+  <a href = "mailto: larmstrong@g.harvard.edu"><img src="/images/email.png" style="width: 10%"></a> | 
+  <a href="https://scholar.google.com/citations?user=ozOmcJQAAAAJ&hl=en&oi=ao"><img src="/images/googlescholar.svg" style="width: 10%"></a> | 
+  <a href="https://www.linkedin.com/in/lena-armstrong/"><img src="/images/linkedin.svg" style="width: 10%"></a> 
   <br>
 description: >
   Lena Armstrong is a <a href="https://www.nsfgrfp.org/">NSF Graduate Research Fellow</a> and Computer Science PhD Student at Harvard University, working with 
