@@ -1,11 +1,11 @@
 title: Lena Armstrong 
-logo: "/images/lena-armstrong.png"
 links: >
   <br>
-  <a href = "mailto: larmstrong@g.harvard.edu"><img src="/images/email-icon.svg" style="width: 10%; margin-left: 10%"></a> 
-  <a href="https://www.linkedin.com/in/lena-armstrong/"><img src="/images/linkedin-icon.svg" style="width: 10%; margin-left: 10%"></a>
-  <a href="https://scholar.google.com/citations?user=ozOmcJQAAAAJ&hl=en&oi=ao"><i class="images/scholar-icon.svg" style="width: 10%"></a>  
+  <a href = "mailto: larmstrong@g.harvard.edu"><img src="/images/email-icon.svg" style="width: 5%; margin-left: 10%"></a> 
+  <a href="https://www.linkedin.com/in/lena-armstrong/"><img src="/images/linkedin-icon.svg" style="width: 5%; margin-left: 10%"></a>
+  <a href="https://scholar.google.com/citations?user=ozOmcJQAAAAJ&hl=en&oi=ao"><i class="images/scholar-icon.svg" style="width: 5%"></a>  
   <br>
+logo: "/images/lena-armstrong.png"
 description: >
   Lena Armstrong is a <a href="https://www.nsfgrfp.org/">NSF Graduate Research Fellow</a> and Computer Science PhD Student at Harvard University, working with 
   <a href="http://www.fernandaviegas.com/about">Fernanda Viegas</a> and <a href="https://www.bewitched.com/">Martin Wattenberg</a>
