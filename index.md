@@ -11,7 +11,7 @@ Pedagogy in a Computing Classroom.” _(accepted to TOCE)_
 
 **Lena Armstrong** and Danaë Metaxa. “Navigating Automated Hiring: Fairness Perceptions, Strategy Use, and Outcomes Among Young Job Seekers.” _(accepted to CSCW 2025)_
 
-Andrew Revell, Alexander Silva, Dhanya Mahesh, **Lena Armstrong**, Thomas Arnold, John Bernabei, Brain Litt, Ezquiel Gleichgerrcht, Leonardo Bonilha, Joel Stein, Sandhitsu Das, Russell Shinohara, Danielle Bassett, Kathryn Davis. “[White Matter Signals Reflect Information Transmission Between Brain Regions During Seizures.](https://www.biorxiv.org/content/10.1101/2021.09.15.460549v2.abstract)" _(submitted)_
+Andrew Revell, Alexander Silva, Dhanya Mahesh, **Lena Armstrong**, Thomas Arnold, John Bernabei, Brain Litt, Ezquiel Gleichgerrcht, Leonardo Bonilha, Joel Stein, Sandhitsu Das, Russell Shinohara, Danielle Bassett, Kathryn Davis. “[White Matter Signals Reflect Information Transmission Between Brain Regions During Seizures.](https://www.biorxiv.org/content/10.1101/2021.09.15.460549v2.abstract)" 
 
 <br>
 <br>
