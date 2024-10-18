@@ -1,5 +1,7 @@
 ## Publications
 
+**Lena Armstrong** and Danaë Metaxa. “Navigating Automated Hiring: Fairness Perceptions, Strategy Use, and Outcomes Among Young Job Seekers.” _(accepted to CSCW 2025)_
+
 **Lena Armstrong**, Abbey Liu, Stephen MacNeil, and Danaë Metaxa. “[The Silicon Ceiling: Auditing GPT's Race and Gender Biases in Hiring](https://arxiv.org/abs/2405.04412)." EAAMO 2024.
 
 **Lena Armstrong**, Jayne Everson, Amy J. Ko. [“Navigating a Blackbox: Students' Experiences and Perceptions of Automated Hiring.”](https://faculty.washington.edu/ajko/papers/Armstrong2023AutomatedHiring.pdf) ICER 2023. 
@@ -8,10 +10,6 @@ Jean Salac, Alannah Oleson, **Lena Armstrong**, Audrey Le Meur, Amy J. Ko. “[F
 
 Jean Salac, **Lena Armstrong**, Megumi Kivuva, Jayne Everson, Alannah Oleson, Amy J. Ko. “How Economically-Marginalized Adolescents of Color Negotiate Critical
 Pedagogy in a Computing Classroom.” _(accepted to TOCE)_
-
-**Lena Armstrong** and Danaë Metaxa. “Navigating Automated Hiring: Fairness Perceptions, Strategy Use, and Outcomes Among Young Job Seekers.” _(accepted to CSCW 2025)_
-
-Andrew Revell, Alexander Silva, Dhanya Mahesh, **Lena Armstrong**, Thomas Arnold, John Bernabei, Brain Litt, Ezquiel Gleichgerrcht, Leonardo Bonilha, Joel Stein, Sandhitsu Das, Russell Shinohara, Danielle Bassett, Kathryn Davis. “[White Matter Signals Reflect Information Transmission Between Brain Regions During Seizures.](https://www.biorxiv.org/content/10.1101/2021.09.15.460549v2.abstract)" 
 
 <br>
 <br>
