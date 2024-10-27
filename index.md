@@ -10,8 +10,6 @@ Jean Salac, Alannah Oleson, **Lena Armstrong**, Audrey Le Meur, Amy J. Ko. “[F
 
 Jean Salac, **Lena Armstrong**, Megumi Kivuva, Jayne Everson, Alannah Oleson, Amy J. Ko. “How Economically-Marginalized Adolescents of Color Negotiate Critical
 Pedagogy in a Computing Classroom.” _(accepted to TOCE)_
-<br>
-<br>
 
 ## Honors & Awards 
 
