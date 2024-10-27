@@ -37,7 +37,7 @@ Pedagogy in a Computing Classroom.” _(accepted to TOCE)_
 
 **Penn Center for Neuroengineering and Therapeutics (May 2020 - December 2021)**
 
-- Advisor: [Prof. Kathryn Davis](https://davislab.med.upenn.edu/) (_Davis Lab, University of Pennsylvania_)
+- Advisor: [Prof. Kathryn Davis](https://davislab.med.upenn.edu/) (_Davis Lab, Center for Neuroengineering and Therapeutics at the University of Pennsylvania_)
 
 - **Machine learning of EEG to help diagnose epilepsy:** created a pipeline to predict brain functional connectivity from structural connectivity with Python using brain network analysis and machine learning techniques [[Poster for Penn Fall Research Expo](https://presentations.curf.upenn.edu/poster/machine-learning-eeg-help-diagnose-epilepsy-predicting-functional-connectivity-structural)]
 
