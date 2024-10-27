@@ -13,6 +13,19 @@ Pedagogy in a Computing Classroom.” _(accepted to TOCE)_
 
 <br>
 <br>
+## Honors & Awards 
+
+- National Science Foundation Graduate Research Fellowship (April 2024)
+
+- College Alumni Society Prize for Research in Cognitive Science (May 2023)
+  
+- Computer Science Academic Award (May 2023)
+
+- Max Mintz Undergraduate TA Hall of Fame (May 2023)
+
+- Phi Beta Kappa (May 2023)
+<br>
+<br>
 
 ## Posters
 
