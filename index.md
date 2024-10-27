@@ -57,7 +57,7 @@ Pedagogy in a Computing Classroom.” _(accepted to TOCE)_
 
 - [PennGreen](https://sustainability.upenn.edu/participate/students/penngreen-pre-orientation) Co-Director (sustainability-focused orientation program for first-year students)
 
-- [West Philadelphia Tutoring Project](https://upennwptp.weebly.com/) STEM tutor for middle school students
+- [West Philadelphia Tutoring Project](https://upennwptp.weebly.com/) tutor for middle school students in STEM
 
 - [FemmeHacks](https://femmehacks.io/) Mentor at inclusive hackathon for women and non-binary people 
 <br>
