@@ -13,16 +13,6 @@ Pedagogy in a Computing Classroom.” _(accepted to TOCE)_
 <br>
 <br>
 
-## Honors & Awards 
-
-- National Science Foundation Graduate Research Fellowship (2024)
-- College Alumni Society Prize for Research in Cognitive Science (2023)
-- Computer Science Academic Award (2023)
-- Max Mintz Undergraduate TA Hall of Fame (2023)
-- Phi Beta Kappa (2023)
-<br>
-<br>
-
 ## Posters
 
 **Design Use Build (DUB) REU Program (June - August 2022)**
@@ -73,6 +63,15 @@ Pedagogy in a Computing Classroom.” _(accepted to TOCE)_
 <br>
 <br>
 
+## Honors & Awards 
+
+- National Science Foundation Graduate Research Fellowship (2024)
+- College Alumni Society Prize for Research in Cognitive Science (2023)
+- Computer Science Academic Award (2023)
+- Max Mintz Undergraduate TA Hall of Fame (2023)
+- Phi Beta Kappa (2023)
+<br>
+<br>
 
 ---
 <p><small>Theme from <a href="https://github.com/orderedlist">orderedlist</a> & <a href="https://github.com/evanca">evanca</a></small></p>
