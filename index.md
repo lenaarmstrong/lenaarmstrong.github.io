@@ -10,6 +10,8 @@ Jean Salac, Alannah Oleson, **Lena Armstrong**, Audrey Le Meur, Amy J. Ko. “[F
 
 Jean Salac, **Lena Armstrong**, Megumi Kivuva, Jayne Everson, Alannah Oleson, Amy J. Ko. “How Economically-Marginalized Adolescents of Color Negotiate Critical
 Pedagogy in a Computing Classroom.” _(accepted to TOCE)_
+<br>
+<br>
 
 ## Honors & Awards 
 
@@ -18,6 +20,24 @@ Pedagogy in a Computing Classroom.” _(accepted to TOCE)_
 - Computer Science Academic Award (2023)
 - Max Mintz Undergraduate TA Hall of Fame (2023)
 - Phi Beta Kappa (2023)
+<br>
+<br>
+
+## Work and Leadership Experiences
+
+- Head Teaching Assistant for Introduction to Human Computer Interction [(CIS 4120/5120)](https://emoneil.github.io/cis4120-5120/#schedule)
+  
+- Head Teaching Assistant for Introduction to Computer Programming [(CIS 1100)](https://www.cis.upenn.edu/~cis110/current/staff.html)
+
+- Project Manager and UN Liaison at an NGO [Hecho por Nosotros](https://www.hechoxnosotros.org/) working to improve the sustainability of the fashion industry through transparency & traceability techology
+
+- Women in Computer Science [(WICS)](https://wics.cis.upenn.edu/program.html) President
+
+- [PennGreen](https://sustainability.upenn.edu/participate/students/penngreen-pre-orientation) Co-Director (sustainability-focused orientation program for first-year students)
+
+- [West Philadelphia Tutoring Project](https://upennwptp.weebly.com/) tutor for middle school students in STEM
+
+- [FemmeHacks](https://femmehacks.io/) mentor at inclusive hackathon for women and non-binary people 
 <br>
 <br>
 
@@ -50,24 +70,6 @@ Pedagogy in a Computing Classroom.” _(accepted to TOCE)_
 - **Machine learning of EEG to help diagnose epilepsy:** created a pipeline to predict brain functional connectivity from structural connectivity with Python using brain network analysis and machine learning techniques [[Poster for Penn Fall Research Expo](https://presentations.curf.upenn.edu/poster/machine-learning-eeg-help-diagnose-epilepsy-predicting-functional-connectivity-structural)]
 
   ![Poster](images/PURM_REU_2020.png)
-<br>
-<br>
-
-## Work and Leadership Experiences
-
-- Head Teaching Assistant for Introduction to Human Computer Interction [(CIS 4120/5120)](https://emoneil.github.io/cis4120-5120/#schedule)
-  
-- Head Teaching Assistant for Introduction to Computer Programming [(CIS 1100)](https://www.cis.upenn.edu/~cis110/current/staff.html)
-
-- Project Manager and UN Liaison at an NGO [Hecho por Nosotros](https://www.hechoxnosotros.org/) working to improve the sustainability of the fashion industry through transparency & traceability techology
-
-- Women in Computer Science [(WICS)](https://wics.cis.upenn.edu/program.html) President
-
-- [PennGreen](https://sustainability.upenn.edu/participate/students/penngreen-pre-orientation) Co-Director (sustainability-focused orientation program for first-year students)
-
-- [West Philadelphia Tutoring Project](https://upennwptp.weebly.com/) tutor for middle school students in STEM
-
-- [FemmeHacks](https://femmehacks.io/) mentor at inclusive hackathon for women and non-binary people 
 <br>
 <br>
 
