@@ -29,9 +29,9 @@ Pedagogy in a Computing Classroom.” _(accepted to TOCE)_
   
 - Head Teaching Assistant for Introduction to Computer Programming [(CIS 1100)](https://www.cis.upenn.edu/~cis110/current/staff.html)
 
-- Project Manager and UN Liaison at an NGO [Hecho por Nosotros](https://www.hechoxnosotros.org/) working to improve the sustainability of the fashion industry through transparency & traceability techology
-
 - Women in Computer Science [(WICS)](https://wics.cis.upenn.edu/program.html) President
+  
+- Project Manager and UN Liaison at an NGO [Hecho por Nosotros](https://www.hechoxnosotros.org/) working to improve the sustainability of the fashion industry through transparency & traceability techology
 
 - [PennGreen](https://sustainability.upenn.edu/participate/students/penngreen-pre-orientation) Co-Director (sustainability-focused orientation program for first-year students)
 
