@@ -23,24 +23,6 @@ Pedagogy in a Computing Classroom.” _(accepted to TOCE)_
 <br>
 <br>
 
-## Work and Leadership Experiences
-
-- Head Teaching Assistant for Introduction to Human Computer Interction [(CIS 4120/5120)](https://emoneil.github.io/cis4120-5120/#schedule)
-  
-- Head Teaching Assistant for Introduction to Computer Programming [(CIS 1100)](https://www.cis.upenn.edu/~cis110/current/staff.html)
-
-- Women in Computer Science [(WICS)](https://wics.cis.upenn.edu/program.html) President
-  
-- Project Manager and UN Liaison at an NGO [Hecho por Nosotros](https://www.hechoxnosotros.org/) working to improve the sustainability of the fashion industry through transparency & traceability techology
-
-- [PennGreen](https://sustainability.upenn.edu/participate/students/penngreen-pre-orientation) Co-Director (sustainability-focused orientation program for first-year students)
-
-- [West Philadelphia Tutoring Project](https://upennwptp.weebly.com/) tutor for middle school students in STEM
-
-- [FemmeHacks](https://femmehacks.io/) mentor at inclusive hackathon for women and non-binary people 
-<br>
-<br>
-
 ## Posters
 
 **Design Use Build (DUB) REU Program (June - August 2022)**
@@ -72,6 +54,25 @@ Pedagogy in a Computing Classroom.” _(accepted to TOCE)_
   ![Poster](images/PURM_REU_2020.png)
 <br>
 <br>
+
+## Work and Leadership Experiences
+
+- Head Teaching Assistant for Introduction to Human Computer Interction [(CIS 4120/5120)](https://emoneil.github.io/cis4120-5120/#schedule)
+  
+- Head Teaching Assistant for Introduction to Computer Programming [(CIS 1100)](https://www.cis.upenn.edu/~cis110/current/staff.html)
+
+- Women in Computer Science [(WICS)](https://wics.cis.upenn.edu/program.html) President
+  
+- Project Manager and UN Liaison at an NGO [Hecho por Nosotros](https://www.hechoxnosotros.org/) working to improve the sustainability of the fashion industry through transparency & traceability techology
+
+- [PennGreen](https://sustainability.upenn.edu/participate/students/penngreen-pre-orientation) Co-Director (sustainability-focused orientation program for first-year students)
+
+- [West Philadelphia Tutoring Project](https://upennwptp.weebly.com/) STEM tutor for middle school students
+
+- [FemmeHacks](https://femmehacks.io/) Mentor at inclusive hackathon for women and non-binary people 
+<br>
+<br>
+
 
 ---
 <p><small>Theme from <a href="https://github.com/orderedlist">orderedlist</a> & <a href="https://github.com/evanca">evanca</a></small></p>
