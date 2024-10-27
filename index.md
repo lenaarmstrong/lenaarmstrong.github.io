@@ -2,7 +2,7 @@
 
 **Lena Armstrong** and Danaë Metaxa. “Navigating Automated Hiring: Fairness Perceptions, Strategy Use, and Outcomes Among Young Job Seekers.” _(accepted to CSCW 2025)_
 
-**Lena Armstrong**, Abbey Liu, Stephen MacNeil, and Danaë Metaxa. “[The Silicon Ceiling: Auditing GPT's Race and Gender Biases in Hiring](https://arxiv.org/abs/2405.04412)." EAAMO 2024.
+**Lena Armstrong**, Abbey Liu, Stephen MacNeil, and Danaë Metaxa. “[The Silicon Ceiling: Auditing GPT's Race and Gender Biases in Hiring](https://doi.org/10.1145/3689904.3694699)." EAAMO 2024.
 
 **Lena Armstrong**, Jayne Everson, Amy J. Ko. [“Navigating a Blackbox: Students' Experiences and Perceptions of Automated Hiring.”](https://faculty.washington.edu/ajko/papers/Armstrong2023AutomatedHiring.pdf) ICER 2023. 
 
