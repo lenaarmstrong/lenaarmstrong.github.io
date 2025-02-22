@@ -50,28 +50,28 @@
 			</p>
 
 			<figure>
-				<img src="vis1.png" alt="The Rate of Corporate-Owned and Owner-Occupied Properties Over Time" style="width:90%"/>
+				<img src="vis1.png" alt="The Rate of Corporate-Owned and Owner-Occupied Properties Over Time" style="width:100%"/>
 				<figcaption>
 				To understand housing speculation over time, I first plotted the rate of owner occupancy rate and corporate ownership on the same axis to see how they change over time. The owner occupancy rate and corporate ownership rates were given for each neighborhood, so I took the average of the rates of all neighborhoods for each year. This visualization shows how owner occupancy is decreasing, while the corporate ownership rate is increasing, which suggests increasing commodification of housing.
 				</figcaption>
 			</figure>
 
 			<figure>
-				<img src="vis6.png" alt="Flips By Investor Type Over Time" />
+				<img src="vis6.png" alt="Flips By Investor Type Over Time" style="width:100%"/>
 				<figcaption>
 				Seeing the rate of corporate ownership and owner occupancy, I was curious about not just how corporate ownership was changing over time, but also who was behind real estate “flipping.” Consequently, I plotted the number of buy side flips over time to see the types of real estate purchases. I found that the most common “flipping” was coming from non-investors and smaller investors in Boston. However, many of the buy side flip values are null, which were excluded from the visualization, so there may be more “flips” than are captured. 
 				</figcaption>
 			</figure>
 
 			<figure>
-				<img src="vis7.png" alt="Price Difference Between Flips by Investor Type Over Time" />
+				<img src="vis7.png" alt="Price Difference Between Flips by Investor Type Over Time" style="width:100%"/>
 				<figcaption>
 				After seeing the types of investors by the buy side flips, I wanted to visualize whether there were differences in the types of transactions these investors were doing. As a result, I looked at the sum of the price differences between flips by investor type over time. While non-investors and small investors were doing the most flips, they didn’t result in as many gains as institutional investors. Even though the institutional investors made the fewest “flips,” they made much more money than other investors. Similar to the buy side flips data, the price difference between flips contained many null values, which were excluded; therefore, there may also be undocumented price differences that could skew these findings. 
 				</figcaption>
 			</figure>
 
 			<figure>
-				<img src="vis8.png" alt="Average Price Differences Between Flips by Style" />
+				<img src="vis8.png" alt="Average Price Differences Between Flips by Style" style="width:100%"/>
 				<figcaption>
 				In addition to who is part of increasing the commodification of housing over time, I also wondered what types of homes were being “flipped.” I looked at the style attribute and found many null values and style types which did not have any data, which I removed before visualization. Additionally, I filtered for when buy side flips were 1, meaning that the transaction was deemed a flip. I set the color of the bubbles in the chart to represent the average price difference for the style type and labelled each type with the number of flips. I added additional labels to clarify what the numbers and bubbles were. I found that condos lead to the greatest returns, but were not the most common. Instead, the most common “flip” are single family homes. 
 				</figcaption>
@@ -99,7 +99,7 @@
 			</figure>
 
 			<figure>
-				<img src="vis9.png" alt="Demographics by Neighborhood Ascending in Owner Occupancy Rate" />
+				<img src="vis9.png" alt="Demographics by Neighborhood Ascending in Owner Occupancy Rate" style="width:100%"/>
 				<figcaption>
 				While the spatial data helped visualize where communities of color resided in comparison to corporate ownership rates, there are further nuances between each of the different groups that I wanted to further understand. I removed null values and sorted the neighborhoods by ascending owner occupancy rate to visualize the differences in owner occupancy across areas and groups of people. I set the scale for the number of people to be the same across the groups to make direct comparisons easier. American Indians and Alaska Natives and people of two or more races resided the most in Dorchester and Roxbury; Asian Americans and Pacific Islanders resided the most in Fenway, Allston, Brighton, and Dorchester; Black or African Americans resided the most in Roxbury, Dorchester, Mattapan, and Hyde Park; and Hispanic or Latinos resided the most in East Boston. While it was neighborhood dependent, areas with higher owner occupancy rates tended to be more suburban and more white people lived there, such as Roslindale and West Roxbury.
 				</figcaption>
@@ -113,7 +113,7 @@
 			</figure>
 
 			<figure>
-				<img src="vis10.png" alt="Number of Flips and Real Estate Prices under $1,000,000 by Neighborhood" />
+				<img src="vis10.png" alt="Number of Flips and Real Estate Prices under $1,000,000 by Neighborhood" style="width:100%"/>
 				<figcaption> 
 				While the proposed bill suggested that homes over $1,000,000 should have transaction fees, I wanted to better understand the scale of home speculation for more affordable homes and where they were located. I visualized the latitude and longitude data from the residential sales data, but found many values outside of the Boston area, such as those in the middle of the ocean. I removed all data points outside of the Boston area and then showed them on the map with red indicating a flip and blue indicating that it wasn’t a flip and size showing the price. This revealed that flipping practices were still happening at lower home prices, especially downtown, suggesting that there may need to be additional policies to protect affordable housing from speculation.
 				</figcaption>
