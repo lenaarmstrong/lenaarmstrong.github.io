@@ -73,5 +73,8 @@ Pedagogy in a Computing Classroom.” _(accepted to TOCE)_
 <br>
 <br>
 
+## Coursework
+[Data Visualization & Society](A2_report.html)
+
 ---
 <p><small>Theme from <a href="https://github.com/orderedlist">orderedlist</a> & <a href="https://github.com/evanca">evanca</a></small></p>
