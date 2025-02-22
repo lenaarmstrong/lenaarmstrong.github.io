@@ -57,6 +57,27 @@
 			</figure>
 
 			<figure>
+				<img src="vis6.png" alt="Flips By Investor Type Over Time" />
+				<figcaption>
+				Seeing the rate of corporate ownership and owner occupancy, I was curious about not just how corporate ownership was changing over time, but also who was behind real estate “flipping.” Consequently, I plotted the number of buy side flips over time to see the types of real estate purchases. I found that the most common “flipping” was coming from non-investors and smaller investors in Boston. However, many of the buy side flip values are null, which were excluded from the visualization, so there may be more “flips” than are captured. 
+				</figcaption>
+			</figure>
+
+			<figure>
+				<img src="vis7.png" alt="Price Difference Between Flips by Investor Type Over Time" />
+				<figcaption>
+				After seeing the types of investors by the buy side flips, I wanted to visualize whether there were differences in the types of transactions these investors were doing. As a result, I looked at the sum of the price differences between flips by investor type over time. While non-investors and small investors were doing the most flips, they didn’t result in as many gains as institutional investors. Even though the institutional investors made the fewest “flips,” they made much more money than other investors. Similar to the buy side flips data, the price difference between flips contained many null values, which were excluded; therefore, there may also be undocumented price differences that could skew these findings. 
+				</figcaption>
+			</figure>
+
+			<figure>
+				<img src="vis8.png" alt="Average Price Differences Between Flips by Style" />
+				<figcaption>
+				In addition to who is part of increasing the commodification of housing over time, I also wondered what types of homes were being “flipped.” I looked at the style attribute and found many null values and style types which did not have any data, which I removed before visualization. Additionally, I filtered for when buy side flips were 1, meaning that the transaction was deemed a flip. I set the color of the bubbles in the chart to represent the average price difference for the style type and labelled each type with the number of flips. I added additional labels to clarify what the numbers and bubbles were. I found that condos lead to the greatest returns, but were not the most common. Instead, the most common “flip” are single family homes. 
+				</figcaption>
+			</figure>
+
+			<figure>
 				<img src="vis2.png" alt="Corporate Ownership Across Boston Neighborhoods" style="width:100%"/>
 				<figcaption>
 				To better understand the spatial distribution of the data and where corporate ownership was most prevalent, I visualized the average corporate ownership rate of each neighborhood on a map of Boston through zip code. I found that corporate ownership was highest in the South Boston Waterfront and Downtown. It is also worth noting that when I labeled the map with the neighborhood for the zipcode, I noticed that the neighborhood and zip code data were not perfectly aligned, since some neighborhoods spanned multiple zip codes. I remedied this in further visualizations by removing extra annotations and making sure to do calculations by neighborhood and not zip code. 
@@ -78,6 +99,13 @@
 			</figure>
 
 			<figure>
+				<img src="vis9.png" alt="Demographics by Neighborhood Ascending in Owner Occupancy Rate" />
+				<figcaption>
+				While the spatial data helped visualize where communities of color resided in comparison to corporate ownership rates, there are further nuances between each of the different groups that I wanted to further understand. I removed null values and sorted the neighborhoods by ascending owner occupancy rate to visualize the differences in owner occupancy across areas and groups of people. I set the scale for the number of people to be the same across the groups to make direct comparisons easier. American Indians and Alaska Natives and people of two or more races resided the most in Dorchester and Roxbury; Asian Americans and Pacific Islanders resided the most in Fenway, Allston, Brighton, and Dorchester; Black or African Americans resided the most in Roxbury, Dorchester, Mattapan, and Hyde Park; and Hispanic or Latinos resided the most in East Boston. While it was neighborhood dependent, areas with higher owner occupancy rates tended to be more suburban and more white people lived there, such as Roslindale and West Roxbury.
+				</figcaption>
+			</figure>
+
+			<figure>
 				<img src="vis5.png" alt="Cost of Real Estate Transactions over $1,000,000 with Different Policies" style="width:100%"/>
 				<figcaption>
 				To understand the impact of different policy proposals, I charted the cost in transaction fees if this policy were applied to the existing dataset. I filtered the data to real estate transactions over $1,000,000, which is the amount mentioned in the proposed bill to the Massachusetts House and Senate (Transfer Fees 2025). Then I multiplied the sum of the home price sales in the real estate transactions by the current fees (0%) and the minimum and maximum of the proposed range (0.5%-2%). This visualization highlights how transfer fees could potentially deter the “flipping” of housing by potentially costing more than $1,750,000,000. 
@@ -85,37 +113,9 @@
 			</figure>
 
 			<figure>
-				<img src="" alt="" />
-				<figcaption>
-				ENTER IMAGE CAPTION HERE.
-				</figcaption>
-			</figure>
-
-			<figure>
-				<img src="IMAGE_FILENAME" alt="" />
-				<figcaption>
-				ENTER IMAGE CAPTION HERE.
-				</figcaption>
-			</figure>
-
-			<figure>
-				<img src="IMAGE_FILENAME" alt="" />
-				<figcaption>
-				ENTER IMAGE CAPTION HERE.
-				</figcaption>
-			</figure>
-
-			<figure>
-				<img src="IMAGE_FILENAME" alt="" />
-				<figcaption>
-				ENTER IMAGE CAPTION HERE.
-				</figcaption>
-			</figure>
-
-			<figure>
-				<img src="IMAGE_FILENAME" alt="" />
-				<figcaption>
-				hi!
+				<img src="vis10.png" alt="Number of Flips and Real Estate Prices under $1,000,000 by Neighborhood" />
+				<figcaption> 
+				While the proposed bill suggested that homes over $1,000,000 should have transaction fees, I wanted to better understand the scale of home speculation for more affordable homes and where they were located. I visualized the latitude and longitude data from the residential sales data, but found many values outside of the Boston area, such as those in the middle of the ocean. I removed all data points outside of the Boston area and then showed them on the map with red indicating a flip and blue indicating that it wasn’t a flip and size showing the price. This revealed that flipping practices were still happening at lower home prices, especially downtown, suggesting that there may need to be additional policies to protect affordable housing from speculation.
 				</figcaption>
 			</figure>
 		</section>
