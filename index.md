@@ -17,11 +17,11 @@ You can find more information in my [CV](CV.pdf).
 
 **Lena Armstrong**, Abbey Liu, Stephen MacNeil, and Danaë Metaxa. “[The Silicon Ceiling: Auditing GPT's Race and Gender Biases in Hiring](https://doi.org/10.1145/3689904.3694699)." EAAMO 2024.
 
+Jean Salac, **Lena Armstrong**, Megumi Kivuva, Jayne Everson, Alannah Oleson, Amy J. Ko. “[How Economically-Marginalized Adolescents of Color Negotiate Critical
+Pedagogy in a Computing Classroom](https://dl.acm.org/doi/pdf/10.1145/3702330).” TOCE 2024.
+
 **Lena Armstrong**, Jayne Everson, Amy J. Ko. [“Navigating a Blackbox: Students' Experiences and Perceptions of Automated Hiring.”](https://faculty.washington.edu/ajko/papers/Armstrong2023AutomatedHiring.pdf) ICER 2023. 
 
 Jean Salac, Alannah Oleson, **Lena Armstrong**, Audrey Le Meur, Amy J. Ko. “[Funds of Knowledge used by Adolescents of Color in Scaffolded Sensemaking around Algorithmic Fairness](https://faculty.washington.edu/ajko/papers/Salac2023AdolescentAlgorithmicFairness.pdf).” ICER 2023. **[BEST PAPER]**
-
-Jean Salac, **Lena Armstrong**, Megumi Kivuva, Jayne Everson, Alannah Oleson, Amy J. Ko. “How Economically-Marginalized Adolescents of Color Negotiate Critical
-Pedagogy in a Computing Classroom.” _(accepted to TOCE)_
 <br>
 <br>
