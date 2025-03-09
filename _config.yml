@@ -8,8 +8,8 @@ links: >
   <br>
 description: >
   <ul>
-    <li><a href="about.html">About</a></li>
-    <li><a href="research.html">Research</a></li>
+    <li><a href="about.md">About</a></li>
+    <li><a href="research.md">Research</a></li>
     <li><a href="CV.pdf">CV</a></li>
   </ul>
   
