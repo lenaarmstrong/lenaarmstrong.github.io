@@ -6,7 +6,9 @@ the NSF Graduate Research Fellowship.
 Her research focuses on human computer interaction, algorithmic justice, and AI auditing.
 She is interested in bridging humans and technology for social impact, 
 leveraging interdisciplinary approaches to investigate bias and opacity in automated systems, 
-and designing interventions for more transparent and equitable human-AI interactions. You can find more information in my [CV](CV.pdf).
+and designing interventions for more transparent and equitable human-AI interactions. 
+
+You can find more information in my [CV](CV.pdf).
 <br><br>
 
 ## Publications
