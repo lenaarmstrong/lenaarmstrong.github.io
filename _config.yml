@@ -1,17 +1,12 @@
 title: Lena Armstrong
 logo: "/images/lena-armstrong.png"
 links: >
-  # <br>
-  #   <a href = "mailto: larmstrong@g.harvard.edu"><img src="email-icon.png" style="width: 8%; margin-right: 5%;"></a> 
-  #   <a href="https://scholar.google.com/citations?user=ozOmcJQAAAAJ&hl=en&oi=ao"><img src="google-scholar.png" style="width: 7%; margin-right: 5%"></a>   
-  #   <a href="https://www.linkedin.com/in/lena-armstrong/"><img src="linkedin.png" style="width: 8%"></a>
-  # <br>
   <br>
-     <a href = "mailto: larmstrong@g.harvard.edu">Email</a> 
+    <a href = "mailto: larmstrong@g.harvard.edu"><img src="email-icon.png" style="width: 8%;"> Email</a> 
   <br>
-     <a href="https://scholar.google.com/citations?user=ozOmcJQAAAAJ&hl=en&oi=ao">Google Scholar</a>  
+    <a href="https://scholar.google.com/citations?user=ozOmcJQAAAAJ&hl=en&oi=ao"><img src="google-scholar.png" style="width: 7%; margin-left: 5%"> Google Scholar</a>
   <br>
-     <a href="https://www.linkedin.com/in/lena-armstrong/">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/lena-armstrong/"><img src="linkedin.png" style="width: 8%; margin-left: 5%;"> LinkedIn</a>
   <br>
 description: >
   
