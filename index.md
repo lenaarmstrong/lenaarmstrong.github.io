@@ -1,4 +1,4 @@
-## Lena Armstrong
+## About
 Lena Armstrong is a Computer Science PhD Student at Harvard University, working with [Fernanda Viegas](http://www.fernandaviegas.com/about) 
 and [Martin Wattenberg](https://www.bewitched.com/) at the [Insight & Interaction Lab](https://insight.seas.harvard.edu/) and supported by
 the NSF Graduate Research Fellowship.
