@@ -13,9 +13,9 @@ You can find more information on my [CV](CV.pdf).
 
 ## Publications
 
-**Lena Armstrong** and Danaë Metaxa. [“Navigating Automated Hiring: Fairness Perceptions, Strategy Use, and Outcomes Among Young Job Seekers](https://arxiv.org/pdf/2502.05099).” _(accepted to CSCW 2025)_
+**Lena Armstrong** and Danaé Metaxa. [“Navigating Automated Hiring: Fairness Perceptions, Strategy Use, and Outcomes Among Young Job Seekers](https://arxiv.org/pdf/2502.05099).” _(accepted to CSCW 2025)_
 
-**Lena Armstrong**, Abbey Liu, Stephen MacNeil, and Danaë Metaxa. “[The Silicon Ceiling: Auditing GPT's Race and Gender Biases in Hiring](https://doi.org/10.1145/3689904.3694699)." EAAMO 2024.
+**Lena Armstrong**, Abbey Liu, Stephen MacNeil, and Danaé Metaxa. “[The Silicon Ceiling: Auditing GPT's Race and Gender Biases in Hiring](https://doi.org/10.1145/3689904.3694699)." EAAMO 2024.
 
 Jean Salac, **Lena Armstrong**, Megumi Kivuva, Jayne Everson, Alannah Oleson, Amy J. Ko. “[How Economically-Marginalized Adolescents of Color Negotiate Critical
 Pedagogy in a Computing Classroom](https://dl.acm.org/doi/pdf/10.1145/3702330).” TOCE 2024.
