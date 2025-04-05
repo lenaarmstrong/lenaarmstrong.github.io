@@ -3,7 +3,7 @@ Lena Armstrong is a Computer Science PhD Student at Harvard University, working 
 and [Martin Wattenberg](https://www.bewitched.com/) at the [Insight & Interaction Lab](https://insight.seas.harvard.edu/) and supported by
 the NSF Graduate Research Fellowship.
 
-Her research focuses on human computer interaction, algorithmic justice, and AI auditing. I am interested in interdisciplinary work bridging humans and technology for social impact, understanding bias and opacity in automated systems, and encouraging more inclusive experiences in computer science.
+Her research focuses on human computer interaction, algorithmic justice, and AI auditing. She is interested in bridging humans and technology for social impact, understanding bias and opacity in automated systems, and encouraging more inclusive experiences in computer science.
  
 You can find more information on my [CV](CV.pdf).
 <br><br>
