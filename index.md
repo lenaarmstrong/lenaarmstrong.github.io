@@ -1,11 +1,13 @@
 ## About
-Lena Armstrong is a Computer Science PhD Student at Harvard University, working with [Fernanda Viegas](http://www.fernandaviegas.com/about) 
+I am a Computer Science PhD Student at Harvard University, working with [Fernanda Viegas](http://www.fernandaviegas.com/about) 
 and [Martin Wattenberg](https://www.bewitched.com/) at the [Insight & Interaction Lab](https://insight.seas.harvard.edu/) and supported by
 the NSF Graduate Research Fellowship.
 
-Her research focuses on human computer interaction, algorithmic justice, and AI auditing. She is interested in bridging humans and technology for social impact, understanding bias and opacity in automated systems, and encouraging more inclusive experiences in computer science.
+My research focuses on human computer interaction, algorithmic justice, and AI auditing. I am interested in bridging humans and technology for social impact, understanding bias and opacity in automated systems, and encouraging more inclusive experiences in computer science.
 
-Before starting my PhD, I completed my undergraduate degree in cognitive science and computer science at the University of Pennsylvania where I was advised by [Danaé Metaxa](https://metaxa.net/). I also had the opportunity to work with [Amy Ko](https://faculty.washington.edu/ajko/) at the University of Washington, [Amy Ogan](https://www.hcii.cmu.edu/people/amy-ogan) at Carnegie Mellon University, and [Kate Davis](https://davislab.med.upenn.edu/people/) at the Center for Neuroengineering and Therapeutics at the University of Pennsylvania. You can find more information on my [CV](CV.pdf).
+Before starting my PhD, I completed my undergraduate degree in cognitive science and computer science at the University of Pennsylvania where I was advised by [Danaé Metaxa](https://metaxa.net/). I also had the opportunity to work with [Amy Ko](https://faculty.washington.edu/ajko/) at the University of Washington, [Amy Ogan](https://www.hcii.cmu.edu/people/amy-ogan) at Carnegie Mellon University, and [Kate Davis](https://davislab.med.upenn.edu/people/) at the Center for Neuroengineering and Therapeutics, University of Pennsylvania. 
+
+You can find more information on my [CV](CV.pdf).
 <br><br>
 
 ## Publications
