@@ -10,7 +10,9 @@ You can find more information on my [CV](CV.pdf).
 
 ## Publications
 
-**Lena Armstrong** and Danaé Metaxa. [“Navigating Automated Hiring: Fairness Perceptions, Strategy Use, and Outcomes Among Young Job Seekers](https://arxiv.org/pdf/2502.05099).” _(accepted to CSCW 2025)_
+Marissa Kumar Gerchick, Ro Encarnación, Cole Tanigawa-Lau, **Lena Armstrong**, Ana Gutiérrez and Danaé Metaxa. "Auditing the Audits: Lessons for Algorithmic Accountability from Local Law 144's Bias Audits.” _(accepted to FAccT 2025)_
+
+**Lena Armstrong** and Danaé Metaxa. [“Navigating Automated Hiring: Fairness Perceptions, Strategy Use, and Outcomes Among Young Job Seekers](https://doi.org/10.1145/3711038)).” CSCW 2025.
 
 **Lena Armstrong**, Abbey Liu, Stephen MacNeil, and Danaé Metaxa. “[The Silicon Ceiling: Auditing GPT's Race and Gender Biases in Hiring](https://doi.org/10.1145/3689904.3694699)." EAAMO 2024.
 
